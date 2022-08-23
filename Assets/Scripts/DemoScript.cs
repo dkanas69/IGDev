@@ -9,6 +9,7 @@ public class DemoScript : MonoBehaviour
 
     public GameObject testObjectA;
     [SerializeField] private GameObject testObjectB;
+
     // Start is called before the first frame update
     void Start()
     {
